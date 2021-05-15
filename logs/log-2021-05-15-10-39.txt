@@ -1,0 +1,186 @@
+2021-05-15 10:39:30,281 - Wechaty - INFO - init_puppet_event_bridge() <<wechaty_puppet_service.puppet.PuppetService object at 0x7fde2de5b7c0>>
+2021-05-15 10:39:30,281 - Wechaty - INFO - initPuppetEventBridge() puppet.on(dong) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(error) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(heart-beat) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(ready) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - receive <reset> event <%s>
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(reset) (listenerCount:0) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(friendship) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(login) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(logout) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(message) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-invite) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-join) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-leave) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-topic) (listenerCount:1) registering...
+2021-05-15 10:39:30,282 - Wechaty - INFO - initPuppetEventBridge() puppet.on(scan) (listenerCount:1) registering...
+2021-05-15 10:39:30,283 - Wechaty - INFO - starting puppet ...
+2021-05-15 10:39:30,283 - HostiePuppet - INFO - init puppet
+2021-05-15 10:39:30,283 - HostiePuppet - INFO - There is no endpoint in cache, trying to fetch endpoint with token.
+2021-05-15 10:39:32,192 - HostiePuppet - DEBUG - get puppet ip address : <{'ip': '121.5.108.222', 'port': 9001}>
+2021-05-15 10:39:32,194 - HostiePuppet - INFO - starting the puppet ...
+2021-05-15 10:39:36,752 - Wechaty - INFO - init_puppet_event_bridge() <<wechaty_puppet_service.puppet.PuppetService object at 0x7fd31cf9a7c0>>
+2021-05-15 10:39:36,752 - Wechaty - INFO - initPuppetEventBridge() puppet.on(dong) (listenerCount:1) registering...
+2021-05-15 10:39:36,752 - Wechaty - INFO - initPuppetEventBridge() puppet.on(error) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(heart-beat) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(ready) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - receive <reset> event <%s>
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(reset) (listenerCount:0) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(friendship) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(login) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(logout) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(message) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-invite) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-join) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-leave) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(room-topic) (listenerCount:1) registering...
+2021-05-15 10:39:36,753 - Wechaty - INFO - initPuppetEventBridge() puppet.on(scan) (listenerCount:1) registering...
+2021-05-15 10:39:36,754 - Wechaty - INFO - starting puppet ...
+2021-05-15 10:39:36,754 - HostiePuppet - INFO - init puppet
+2021-05-15 10:39:36,754 - HostiePuppet - INFO - There is no endpoint in cache, trying to fetch endpoint with token.
+2021-05-15 10:39:38,720 - HostiePuppet - DEBUG - get puppet ip address : <{'ip': '121.5.108.222', 'port': 9001}>
+2021-05-15 10:39:38,721 - HostiePuppet - INFO - starting the puppet ...
+2021-05-15 10:39:38,916 - HostiePuppet - INFO - puppet has started ...
+2021-05-15 10:39:38,917 - HostiePuppet - INFO - listening the event from the puppet ...
+2021-05-15 10:39:38,945 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/obouAc71T6BiYunhjkxM', 'status': 2}>
+2021-05-15 10:39:38,946 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:39:38,972 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/obouAc71T6BiYunhjkxM
+2021-05-15 10:39:38,973 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/obouAc71T6BiYunhjkxM', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:39:38,973 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:39:39,942 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/QdEAY6CSGVBwt4u4hfWk', 'status': 2}>
+2021-05-15 10:39:39,943 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:39:39,969 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/QdEAY6CSGVBwt4u4hfWk
+2021-05-15 10:39:39,969 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/QdEAY6CSGVBwt4u4hfWk', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:39:39,970 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:39:51,931 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:39:52,843 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/Yd73C4sRGoZ_tRo7bwUv', 'status': 2}>
+2021-05-15 10:39:52,843 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:39:52,858 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/Yd73C4sRGoZ_tRo7bwUv
+2021-05-15 10:39:52,858 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/Yd73C4sRGoZ_tRo7bwUv', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:39:52,858 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:39:58,024 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:39:58,988 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/AfTWdUXaTJr24HgIOVwH', 'status': 2}>
+2021-05-15 10:39:58,989 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:39:59,015 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/AfTWdUXaTJr24HgIOVwH
+2021-05-15 10:39:59,015 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/AfTWdUXaTJr24HgIOVwH', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:39:59,015 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:40:13,122 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:40:14,044 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/wcKnsGmtYEaHZjXT3J-E', 'status': 2}>
+2021-05-15 10:40:14,045 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:40:14,059 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/wcKnsGmtYEaHZjXT3J-E
+2021-05-15 10:40:14,059 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/wcKnsGmtYEaHZjXT3J-E', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:40:14,059 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:40:24,285 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:40:25,021 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/obiQJENSO_dIh2bP6dn-', 'status': 2}>
+2021-05-15 10:40:25,021 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:40:25,035 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/obiQJENSO_dIh2bP6dn-
+2021-05-15 10:40:25,035 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/obiQJENSO_dIh2bP6dn-', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:40:25,035 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:40:39,232 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:40:54,172 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:41:09,237 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:41:24,287 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:41:39,245 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:41:54,188 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:42:09,243 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:42:24,198 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:42:39,354 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:42:54,272 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:43:09,251 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:43:24,307 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:43:39,209 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:43:54,233 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:44:09,262 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:44:13,973 - HostiePuppet - DEBUG - receive scan info <{'status': 5}>
+2021-05-15 10:44:13,973 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:44:13,974 - Wechaty - DEBUG - emit() event <['', 'ScanStatus.Timeout', 'None']> <{}>
+2021-05-15 10:44:13,974 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:44:24,009 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:44:24,825 - HostiePuppet - DEBUG - receive scan info <{'qrcode': 'http://weixin.qq.com/x/odMRDdA1F-FOh_Fs4AQS', 'status': 2}>
+2021-05-15 10:44:24,826 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:44:24,855 - Wechaty - INFO - or you can scan qrcode from: https://wechaty.js.org/qrcode/http://weixin.qq.com/x/odMRDdA1F-FOh_Fs4AQS
+2021-05-15 10:44:24,855 - Wechaty - DEBUG - emit() event <['http://weixin.qq.com/x/odMRDdA1F-FOh_Fs4AQS', 'ScanStatus.Waiting', 'None']> <{}>
+2021-05-15 10:44:24,855 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:44:38,948 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:44:53,950 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:45:09,069 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:45:24,005 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:45:39,173 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:45:54,017 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:46:09,069 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:46:24,024 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:46:39,077 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:46:54,028 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:47:08,993 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:47:12,676 - HostiePuppet - DEBUG - receive scan info <{'status': 4}>
+2021-05-15 10:47:12,676 - Wechaty - INFO - receive <scan> event <%s>
+2021-05-15 10:47:12,676 - Wechaty - DEBUG - emit() event <['', 'ScanStatus.Confirmed', 'None']> <{}>
+2021-05-15 10:47:12,677 - Wechaty - ERROR - internal error <'MyWechatBot' object has no attribute 'contact_id'>
+2021-05-15 10:47:14,310 - HostiePuppet - DEBUG - receive login info <{'contactId': 'wxid_anfjfqp7a00712'}>
+2021-05-15 10:47:14,310 - wechaty.plugin - INFO - init the plugins ...
+2021-05-15 10:47:14,310 - Wechaty - INFO - receive <login> event <EventLoginPayload(contact_id='wxid_anfjfqp7a00712')>
+2021-05-15 10:47:14,343 - Contact - INFO - load contact <Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>>
+2021-05-15 10:47:14,344 - Wechaty - DEBUG - emit() event <['Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>']> <{}>
+2021-05-15 10:47:14,345 - RoomBot - INFO - bot 🌝🌜🌚🌛🌝 logined
+2021-05-15 10:47:14,416 - HostiePuppet - DEBUG - receive message info <{'messageId': '6405362593797924027'}>
+2021-05-15 10:47:14,416 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='6405362593797924027', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:14,417 - Message - DEBUG - Message ready <Message <6405362593797924027> is not ready>
+2021-05-15 10:47:14,419 - HostiePuppet - DEBUG - receive message info <{'messageId': '1621000809'}>
+2021-05-15 10:47:14,419 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='1621000809', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:14,420 - Message - DEBUG - Message ready <Message <1621000809> is not ready>
+2021-05-15 10:47:14,477 - Contact - INFO - load contact <Contact <weixin> <微信团队>>
+2021-05-15 10:47:14,477 - Wechaty - INFO - receive message <Message#message_type_unspecified[🗣 Contact <weixin> <微信团队>>
+2021-05-15 10:47:14,477 - Wechaty - DEBUG - emit() event <['Message#message_type_unspecified[🗣 Contact <weixin> <微信团队>']> <{}>
+2021-05-15 10:47:15,266 - Accessory - WARNING - <Contact <weixin> <微信团队>> set payload more than once
+2021-05-15 10:47:15,266 - Contact - INFO - load contact <Contact <weixin> <微信团队>>
+2021-05-15 10:47:15,267 - Wechaty - INFO - receive message <Message#message_type_recalled[🗣 Contact <weixin> <微信团队>>
+2021-05-15 10:47:15,267 - Wechaty - DEBUG - emit() event <['Message#message_type_recalled[🗣 Contact <weixin> <微信团队>']> <{}>
+2021-05-15 10:47:15,268 - Wechaty - ERROR - internal error <list index out of range>
+2021-05-15 10:47:15,268 - HostiePuppet - DEBUG - receive ready info <{'data': 'ready'}>
+2021-05-15 10:47:15,269 - Message - DEBUG - Message ready <Message <815947597830372299> is not ready>
+2021-05-15 10:47:15,269 - Wechaty - INFO - receive <ready> event <%s>
+2021-05-15 10:47:15,270 - Wechaty - DEBUG - emit() event <["EventReadyPayload(data='ready')"]> <{}>
+2021-05-15 10:47:15,301 - RoomBot - INFO - Bot🌝🌜🌚🌛🌝 logined
+2021-05-15 10:47:15,647 - Message - DEBUG - Message ready <Message <5400026804356432944> is not ready>
+2021-05-15 10:47:15,676 - Room - INFO - Room find <新测试群>
+2021-05-15 10:47:15,676 - Room - INFO - Room find_all <新测试群>
+2021-05-15 10:47:15,806 - Contact - INFO - load contact <Contact <wxid_qgho9l2kdha311> <ＫＩＥＲＡＮ．>>
+2021-05-15 10:47:15,812 - HostiePuppet - DEBUG - receive message info <{'messageId': '684422441260112410'}>
+2021-05-15 10:47:15,812 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='684422441260112410', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:15,812 - Message - DEBUG - Message ready <Message <684422441260112410> is not ready>
+2021-05-15 10:47:15,836 - Contact - INFO - load contact <Contact <wxid_i0xytkiqww5t22> <赤銘>>
+2021-05-15 10:47:15,848 - Wechaty - INFO - receive message <Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>>
+2021-05-15 10:47:15,848 - Wechaty - DEBUG - emit() event <['Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>']> <{}>
+2021-05-15 10:47:15,867 - Contact - INFO - load contact <Contact <wxid_373sebozi5ad22> <Kj·Thomas>>
+2021-05-15 10:47:15,868 - Room - WARNING - Room find() confirm room[#0] with id=23402005339@chatroom is valid result, return it.
+2021-05-15 10:47:15,868 - Room - INFO - Room say <机器人已上线，正在做初始化工作, None>
+2021-05-15 10:47:15,885 - HostiePuppet - DEBUG - receive message info <{'messageId': '3636377231423493797'}>
+2021-05-15 10:47:15,885 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='3636377231423493797', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:15,886 - Message - DEBUG - Message ready <Message <3636377231423493797> is not ready>
+2021-05-15 10:47:15,912 - Wechaty - INFO - receive message <Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>>
+2021-05-15 10:47:15,913 - Wechaty - DEBUG - emit() event <['Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>']> <{}>
+2021-05-15 10:47:16,257 - Message - DEBUG - Message ready <Message <7263142405349518681> is not ready>
+2021-05-15 10:47:16,285 - Room - INFO - Get room <Room <23402005339@chatroom - 新测试群>> all members
+2021-05-15 10:47:19,335 - HostiePuppet - DEBUG - receive ready info <{'data': 'ready'}>
+2021-05-15 10:47:19,336 - Wechaty - INFO - receive <ready> event <%s>
+2021-05-15 10:47:19,337 - Wechaty - DEBUG - emit() event <["EventReadyPayload(data='ready')"]> <{}>
+2021-05-15 10:47:24,003 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:47:27,838 - HostiePuppet - DEBUG - receive message info <{'messageId': '7775785927474457916'}>
+2021-05-15 10:47:27,839 - HostiePuppet - DEBUG - receive message info <{'messageId': '6382810302531868033'}>
+2021-05-15 10:47:27,839 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='7775785927474457916', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:27,839 - Message - DEBUG - Message ready <Message <7775785927474457916> is not ready>
+2021-05-15 10:47:27,839 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='6382810302531868033', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:27,839 - Message - DEBUG - Message ready <Message <6382810302531868033> is not ready>
+2021-05-15 10:47:27,866 - Wechaty - INFO - receive message <Message#message_type_recalled[🗣 Contact <weixin> <微信团队>>
+2021-05-15 10:47:27,866 - Wechaty - DEBUG - emit() event <['Message#message_type_recalled[🗣 Contact <weixin> <微信团队>']> <{}>
+2021-05-15 10:47:27,867 - Wechaty - ERROR - internal error <list index out of range>
+2021-05-15 10:47:27,920 - Wechaty - INFO - receive message <Message#message_type_recalled[🗣 Contact <weixin> <微信团队>>
+2021-05-15 10:47:27,920 - Wechaty - DEBUG - emit() event <['Message#message_type_recalled[🗣 Contact <weixin> <微信团队>']> <{}>
+2021-05-15 10:47:27,920 - Wechaty - ERROR - internal error <list index out of range>
+2021-05-15 10:47:39,007 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:47:54,013 - HostiePuppet - DEBUG - receive heartbeat info <{'data': 'heartbeat@padlocal'}>
+2021-05-15 10:47:55,792 - HostiePuppet - DEBUG - receive message info <{'messageId': '6862258066202270565'}>
+2021-05-15 10:47:55,793 - Wechaty - DEBUG - receive <message> event <EventMessagePayload(message_id='6862258066202270565', type=None, from_id=None, filename=None, text=None, timestamp=None, room_id=None, to_id=None, mention_ids=None)>
+2021-05-15 10:47:55,793 - Message - DEBUG - Message ready <Message <6862258066202270565> is not ready>
+2021-05-15 10:47:55,824 - Wechaty - INFO - receive message <Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>>
+2021-05-15 10:47:55,825 - Wechaty - DEBUG - emit() event <['Message#message_type_unspecified[🗣 Contact <wxid_anfjfqp7a00712> <🌝🌜🌚🌛🌝>']> <{}>
